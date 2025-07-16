@@ -1,0 +1,7 @@
+#f12s_meta_box_slider_type_a .inside,
+#f12s_meta_box_slider_type_b .inside,
+#f12s_meta_box_slider_image .inside,
+#f12s_meta_box_slider_content .inside {
+  margin  : 0;
+  padding : 0;
+}
